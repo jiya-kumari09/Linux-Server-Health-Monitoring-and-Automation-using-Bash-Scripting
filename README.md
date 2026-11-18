@@ -23,6 +23,7 @@ The toolkit includes the following modules:
 
 ## Project Structure
 
+```bash
 Linux_Administration_Toolkit/
 ├── main.sh
 ├── system_info.sh
@@ -32,9 +33,9 @@ Linux_Administration_Toolkit/
 ├── logs.sh
 ├── demo.html
 ├── README.md
-├── backup/      (created after running backup)
-└── logs/        (created after running log manager)
-
+├── backup/    (created after running backup)
+└── logs/      (created after running log manager)
+```
 ## Modules Description
 
 ### 1. System Information (system_info.sh)
